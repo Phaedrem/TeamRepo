@@ -1,6 +1,11 @@
-#ifndef HELLOWORLD_MAIN_H
-#define HELLOWORLD_MAIN_H
+#ifndef COMMANDLINE_MAIN_H
+#define COMMANDLINE_MAIN_H
 
 #include <iostream>
+#include "functions.h"
 
-#endif //HELLOWORLD_MAIN_H
+
+using std::cout;
+using std::endl;
+
+#endif //COMMANDLINE_MAIN_H
